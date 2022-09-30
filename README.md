@@ -23,3 +23,6 @@
     <a href = "https://www.linkedin.com/in/s%C3%A9rgio-mateus-massaity-tagawa-212b79208/">
       <img width="25" src="linkedin.svg">
     </a>
+</div>
+
+![Snake animation](https://github.com/SergioTagawa/SergioTagawa/blob/output/github-contribution-grid-snake.svg)
