@@ -1,6 +1,6 @@
 ### Hey GuysSergio Mateus Tagawa here!! 👑
 
-s
+
 <br>
 
 <div  align="center"> 
